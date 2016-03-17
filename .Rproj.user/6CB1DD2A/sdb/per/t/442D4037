@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1453746985026.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "442D4037",
+    "lastKnownWriteTime" : 140735127874816,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ti73ufmuu3",
+        "caption" : "acronym",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=acronym&cache_key=ti73ufmuu3",
+        "displayedObservations" : "6342",
+        "environment" : "",
+        "object" : "acronym",
+        "totalObservations" : "6342",
+        "variables" : "2"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

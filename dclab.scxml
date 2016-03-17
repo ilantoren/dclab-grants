@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<scxml xmlns="http://www.w3.org/2005/07/scxml" xmlns:xi="http://www.w3.org/2001/XInclude" version="1.0" initial="Main" datamodel="ecmascript">
+<state id="Main">
+   <initial>
+     <transition target="initial"/>
+   </initial>
+
+<state id="initial">
+</state>
+</state>
+
+
+
+
+
+</scxml>

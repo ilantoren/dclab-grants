@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1453831852674.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B62CC92F",
+    "lastKnownWriteTime" : 8463160237517006437,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "y24vtmxisv",
+        "caption" : "tmp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tmp&cache_key=y24vtmxisv",
+        "displayedObservations" : 22829,
+        "environment" : "",
+        "object" : "tmp",
+        "totalObservations" : 22829,
+        "variables" : 2
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

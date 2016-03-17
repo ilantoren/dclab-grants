@@ -1,0 +1,17 @@
+{
+    "contents" : "findlibrary( topicmodels )\nlibrary(slam)\nlibrary( tm )\n\ndocuments <- apply( source, 2, function(x) gsub(',' , ' ', x))\nnames.corpus <- Corpus( VectorSource(documents))\nnames.dtm <- DocumentTermMatrix( names.corpus, control=list( stemming=TRUE, stopwords=TRUE, removeNumbers=TRUE, minDocFreq=1, weighing=weightTfIdf))",
+    "created" : 1451909009285.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3905227593",
+    "id" : "F8DF2BD0",
+    "lastKnownWriteTime" : 1453886349,
+    "path" : "~/Documents/workspace/zip-extract/dtm_by.R",
+    "project_path" : "dtm_by.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : true,
+    "type" : "r_source"
+}

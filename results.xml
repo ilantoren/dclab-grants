@@ -1,0 +1,1119 @@
+<data>
+<grantList>
+<grant-text>
+</grant-text>
+</grantList>
+<grantList>
+<!-- Canadian Institutes for Health Research  FOUND: Canadian Institutes of Health Research remove stop words 0.9  -->
+<!-- GID : 238896 -->
+<!-- National Institute of Neurological Disorders and Stroke  FOUND: National Institute of Neurological Disorders and Stroke similarity metric 1.0  -->
+<!-- National Institute of Child Health and Development  FOUND: National Institute of Child Health and Human Development similarity metric 0.9354143738746643  -->
+<grant>
+<grant-id>MOP77720</grant-id>
+<grant-agency><organization>Canadian Institutes of Health Research</organization><country iso-code= "CA"  /></grant-agency>
+<grant-agency-id>501100000024</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Institute of Neurological Disorders and Stroke</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000065</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Institute of Child Health and Human Development</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000071</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Elaine Tam for technical assistance with collecting blood samples, Youliang Lou for performing the pyrosequencing assays, and The Centre for Applied Genomics for providing DNA samples from typically developing children. E.S. was supported by an Autism Speaks Weatherstone Predoctoral Fellowship (9093). This work was funded by grants from the Canadian Institutes for Health Research (MOP77720) to L.R.O., from the Simons Foundation Autism Research Initiative (238896) to C.B.M and L.R.O., and from the National Institute of Neurological Disorders and Stroke (R01 NS35102) and the National Institute of Child Health and Development (R37 HD29957) to C.B.M. </grant-text>
+</grantList>
+<grantList>
+<!-- National Health and Medical Research Council  FOUND: National Health and Medical Research Council similarity metric 1.0  -->
+<!-- GID : 628952 -->
+<!-- GID : 1041920 -->
+<!-- GID : 241995 -->
+<grant>
+<grant-agency><organization>National Health and Medical Research Council</organization><country iso-code= "AU"  /></grant-agency>
+<grant-agency-id>501100000925</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  This work was supported by the National Health and Medical Research Council (grants 628952 and 1041920 to J.G.), the Channel 7 Children’s Research Foundation (R.K., M.F., and J.G.), the European Commission 7 th  Framework Programme project Genetic and Epigenetic Networks in Cognitive Dysfunction (grant 241995 to H.H. and V.M.K.), the MS McLeod Research Fellowship from the Women’s and Children’s Hospital Foundation (to M.A.C.), and the Ter Meulen Fonds stipendium (to B.W.M.v.B). We thank Amanda Springer, Sharon Grosvenor, and Julie Rogerson for their help with the MRX12 family. The authors are also grateful to the families who participated in the study. </grant-text>
+</grantList>
+<grantList>
+<!-- American Heart Association  FOUND: American Heart Association similarity metric 1.0  -->
+<!-- British Heart Foundation FOUND: British Heart Foundation exact 1.0  -->
+<!-- British Heart Foundation FOUND: British Heart Foundation exact 1.0  -->
+<!-- GID : LSHM - CT - 2006 - 037593 -->
+<!-- GID : 084183/Z/07/Z -->
+<!-- GID : RP - PG - 0310 - 1002 -->
+<grant>
+<grant-agency><organization>British Heart Foundation</organization><country iso-code= "GB"  /></grant-agency>
+<grant-agency-id>501100000274</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>American Heart Association</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000968</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  This study was supported by the Alumni Association of University of Leicester PhD studentship and International Mentoring Travel Award by American Heart Association (to P.C.). M.T. is supported by the British Heart Foundation. N.J.S. holds a personal chair supported by the British Heart Foundation and is a UK NIHR senior investigator. C.P.N. is funded by the British Heart Foundation. The Cardiogenics project was supported by the European Union 6th Framework Program (LSHM - CT - 2006 - 037593). The UKBS collection of Common Controls has been funded by the Wellcome Trust grant 084183/Z/07/Z and by NIHR programme grant to NHSBT (RP - PG - 0310 - 1002). The collection was established as part of the WTCCC. We would like to thank the participants and members of the CARDIoGRAM and the Cardiogenics consortia. Members of the Cardiogenics Consortium are listed in the  Supplemental Data . </grant-text>
+</grantList>
+<grantList>
+<!-- UAB FOUND: University of Alabama at Birmingham exact 1.0  -->
+<grant>
+<grant-agency><organization>University of Alabama at Birmingham</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100008333</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  This work was supported through internal funds from the Medical Genomics Laboratory at the University of Alabama at Birmingham (UAB). We thank Alicia Gomes, the UAB Medical Genomics Laboratory certified genetic counselor, for helping with the institutional-review-board protocols. </grant-text>
+</grantList>
+<grantList>
+<!-- Agence Nationale de la Recherche  FOUND: Agence Nationale de la Recherche similarity metric 1.0  -->
+<!-- GID : BLAN-1122-01 -->
+<!-- GID : 2013 -->
+<!-- GID : ANR-13-BSV1-0027 -->
+<!-- ANR  FOUND: Agence Nationale de la Recherche remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>Agence Nationale de la Recherche</organization><country iso-code= "FR"  /></grant-agency>
+<grant-agency-id>501100001665</grant-agency-id>
+</grant>
+<grant>
+<grant-id>ANR-A0-IAHU-01</grant-id>
+<grant-agency><organization>Agence Nationale de la Recherche</organization><country iso-code= "FR"  /></grant-agency>
+<grant-agency-id>501100001665</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank the families for their participation. We also thank Leila Hakkakian, Judite De Oliveira, and Nadège Gigot for technical assistance and Prof. Andrew Green for referral of affected subjects, and we are grateful to the French Society of Fetal Pathology for participating in the study. This work was supported by grants from the Agence Nationale de la Recherche (ANR; 2010 fetal ciliopathies grant BLAN-1122-01 and 2013 cilia, axonal guidance, and corpus callosum grant ANR-13-BSV1-0027 to T.A.B.). C.A. is funded by the Fondation pour la Recherche Médicale and K.P. by grants from ANR. The Institut Imagine is supported by an ANR grant (ANR-A0-IAHU-01). </grant-text>
+</grantList>
+<grantList>
+<!-- MRC  FOUND: Medical Research Council remove stop words 0.9  -->
+<grant>
+<grant-id>K006215</grant-id>
+<grant-agency><organization>Medical Research Council</organization><country iso-code= "GB"  /></grant-agency>
+<grant-agency-id>501100000265</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Eli Stahl, Stephan Ripke, and Dominika Sieradzka for discussions. This work was funded by the MRC (K006215). </grant-text>
+</grantList>
+<grantList>
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We would like to thank Alkes Price, Hillary Finucane, Robert Brown, Huwenbo Shi, and Nicholas Mancuso for helpful discussion and feedback on this work. This research was supported by NIH grants R01-HG006399, R01-GM53275, and R21-CA182821. </grant-text>
+</grantList>
+<grantList>
+<!-- National Human Genome Research Institute  FOUND: National Human Genome Research Institute similarity metric 1.0  -->
+<!-- NHGRI FOUND: National Human Genome Research Institute exact 1.0  -->
+<!-- National Heart, Lung, and Blood Institute  FOUND: National Heart, Lung, and Blood Institute similarity metric 1.0  -->
+<!-- NHLBI FOUND: National Heart, Lung, and Blood Institute exact 1.0  -->
+<!-- GID : HG006504  -->
+<!-- GID : HG006542  -->
+<!-- GID : HG006493  -->
+<grant>
+<grant-agency><organization>National Human Genome Research Institute</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000051</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Heart, Lung, and Blood Institute</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000050</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Heart, Lung, and Blood Institute</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000050</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Human Genome Research Institute</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000051</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank all the families, clinicians, and investigators for their participation and support and the staff of GeneReviews and OMIM for assistance and access to data. We thank Colleen Davis, Seema Jamal, Kathryn Shively, and Colby Marvin for helpful discussion and technical assistance. This work was supported in part by National Human Genome Research Institute (NHGRI) and National Heart, Lung, and Blood Institute (NHLBI) grants HG006504 (to the Yale Center for Mendelian Disorders), HG006542 (to the Baylor-Hopkins Center for Mendelian Genomics), and HG006493 (to the University of Washington Center for Mendelian Genomics). The content is solely the responsibility of the authors and does not necessarily represent the official views of the NHGRI and NHLBI of the NIH. J.R.L. has stock ownership in 23andMe, is a paid consultant for Regeneron Pharmaceuticals, has stock options in Lasergen Inc., is a member of the Scientific Advisory Board of Baylor Miraca Genetics Laboratories, and is a co-inventor on multiple US and European patents related to molecular diagnostics for inherited neuropathies, eye diseases, and bacterial genomic fingerprinting. The Department of Molecular and Human Genetics at Baylor College of Medicine (D.M. and J.R.L.) derives revenue from the chromosomal microarray analysis and clinical exome sequencing offered in the Baylor Miraca Genetics Laboratory ( http://www.bmgl.com/BMGL/Default.aspx ). </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We would like to thank Prof. Peter Visscher and Prof. Grant Montgomery for providing the lymphoblastoid cell lines used in this study. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : MC_U105697135 -->
+<!-- GID : 01GM1207 -->
+<!-- GID : 01GM1113C -->
+<!-- GID : 01GM0866 -->
+<!-- GID : FKZ 01ZX1405C -->
+<!-- GID : Z76010017300 -->
+<!-- GID : Z56010015300 -->
+<!-- GID : 096919/Z/11/Z -->
+<!-- GID : G0601943 -->
+<!-- GID : NIHR-HCS-D12-03-04 -->
+<!-- GID : GGP11011  -->
+<!-- GID : 101876/Z/13/Z -->
+<grant-text>
+ Acknowledgments  This work was supported by grants from the Medical Research Council UK (MC_U105697135 to J.R., C.A.P., A.D., and M.M.), the German Bundesministerium für Bildung und Forschung through funding of the E-Rare project GENOMIT (01GM1207 to T.M. and H.P.), the German Network or Mitochondrial Disorders (01GM1113C and 01GM0866 to T.M., H.P., and M.S.), the Juniorverbund in der Systemmedizin “mitOmics” (FKZ 01ZX1405C to T.B.H.), the German Center for Heart Research (Z76010017300 and Z56010015300 to T.M.), the Wellcome Trust Strategic Award (096919/Z/11/Z to R.W.T. and P.F.C.), the Medical Research Council Centre for Neuromuscular Diseases (G0601943 to R.W.T. and P.F.C.), the UK National Health Service Highly Specialised “Rare Mitochondrial Disorders of Adults and Children” Service (C.L.A. and R.W.T.), the Lily Foundation (R.W.T.), a National Institute for Health Research doctoral fellowship (NIHR-HCS-D12-03-04 to C.L.A.), and Telethon Italy grant GGP11011 (C. Dallabona, C. Donnini, and I.F.). P.F.C. is a Wellcome Trust Senior Fellow in Clinical Science (101876/Z/13/Z) and a UK National Institute for Health Research Senior Investigator. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We are grateful to the individuals who participated in this study. We thank N. Suzuki, M. Saito, M. Kamata, and N. Fujita for their help in collecting the samples. We also thank T. Isono, S. Tominaga, Y. Takanashi, and T. Kusadokoro for technical assistance and N. Atsumi and S. Unger for English language editing. </grant-text>
+</grantList>
+<grantList>
+<!-- NIH FOUND: National Institutes of Health exact 1.0  -->
+<!-- GID : DK096238 -->
+<!-- GID : 5U54HG006504 -->
+<!-- GID : DK 46718 -->
+<!-- GID : DK078226 -->
+<!-- GID : DK088767 -->
+<!-- March of Dimes FOUND: March of Dimes Foundation exact 1.0  -->
+<!-- German Research Foundation  FOUND: Deutsche Forschungsgemeinschaft remove stop words 0.9  -->
+<!-- DFG FOUND: California Department of Fish and Game exact 1.0  -->
+<!-- Hannover Medical School FOUND: Medizinischen Hochschule Hannover exact 1.0  -->
+<!-- GID : G0600040 -->
+<!-- GID : MR/L002744/1 -->
+<!-- GID : 066647 -->
+<grant>
+<grant-agency><organization>Deutsche Forschungsgemeinschaft</organization><country iso-code= "DE"  /></grant-agency>
+<grant-agency-id>501100001659</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>California Department of Fish and Game</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100004807</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>Medizinischen Hochschule Hannover</organization><country iso-code= "DE"  /></grant-agency>
+<grant-agency-id>501100005624</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>March of Dimes Foundation</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000912</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We are grateful the families who contributed to this study. We thank Seymour Rosen, Heather J. Cordell, William G. Newman, Stanley Swierzewski III, Frank Croke, John Blanchete, Dicken Ko, Ghaleb Daouk, John Herrin, and the UK VUR Study Group for contributing renal pathology, radiology, and clinical materials. This research was supported by grants from the NIH to R.S.L. (DK096238), to R.P.L. (5U54HG006504), to H.J. (DK 46718), to W.L. (DK078226), and to F.H. (DK088767) and from the March of Dimes to W.L. and F.H. This work was supported by grants from the German Research Foundation (DFG) to S.S.L. within SFB1140 and the Emmy Noether programme and to A.K. by an individual grant (Ki728/7-1) and within the Cluster of Excellence REBIRTH (From Regenerative Biology to Reconstructive Therapy) at Hannover Medical School. A.S.W. received project grants from Kidney Research UK, the Medical Research Council (G0600040 and MR/L002744/1), and the Wellcome Trust (066647). H.M.S. was funded by fellowships from NIHR UK and the Wellcome Trust. A.S.W.’s and H.M.S.’s research was facilitated by the Manchester Academic Health Sciences Centre. A.V. is a recipient of a Fulbright postdoctoral scholar award and of a Manton Center fellowship award from Boston Children’s Hospital. F.H. and R.P.L. are Investigators of the Howard Hughes Medical Institute. F.H. is the Warren E. Grupe Professor of Pediatrics at Harvard Medical School. </grant-text>
+</grantList>
+<grantList>
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant-text>
+			 Acknowledgments 			 The authors thank all the individuals with neuropsychiatric disorders and their family members who participated in this study. This work was supported in part by NIH grant P01CA142538. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH. 		</grant-text>
+</grantList>
+<grantList>
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  The authors acknowledge support from NIH grants HG000376 (M.B.), HG007022 (G.R.A.), and HG006513 (G.R.A.). </grant-text>
+</grantList>
+<grantList>
+<!-- ZonMw  FOUND: ZonMw similarity metric 1.0  -->
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<!-- GID : 01GS08166 -->
+<!-- GID : EU FP7 -->
+<!-- GID : 241995 -->
+<!-- GID : 628952 -->
+<!-- GID : 1041920 -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-id>907-00-365</grant-id>
+<grant-agency><organization>ZonMw</organization><country iso-code= "NL"  /></grant-agency>
+<grant-agency-id>501100001826</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank the families for their contribution. Drs. Jillian Parboosingh, Francois Bernier, and Ryan Lamont contributed to the study design, data interpretation, and X-inactivation studies of individual 8. Drs. Concetta Barone and Paolo Bosco were instrumental for clinical evaluation and X-inactivation studies in individual 13. Miriam Uppill provided technical assistance with investigations in family 1. This work was supported by a grant from the Netherlands Organization for Health Research and Development (ZonMw grant 907-00-365 to T.K.), the Italian Ministry of Health and ‘5 per mille’ funding (C.R.), a grant from the Alberta Children’s Hospital Foundation (A.M.I.), a NIH Training Grant (5T32HD060558-04 to E.C.M.), German Ministry of Education and Research (01GS08166 to N.D.D. and A.R.), the EU FP7 project GENCODYS (grant number 241995 to V.M.K.), Australian NH&amp;MRC grants 628952 and 1041920 to J.G., support from the Simons Foundation (W.K.C.), Doris Duke Charitable Foundation Clinical Scientist Development Award (M.C.K.), a grant from the Marguerite-Marie Delacroix Foundation (A.V.D.), and FWO-Flanders (H.V.E. and F.K.). B.L. is a senior clinical investigator supported by Fund for Scientific Research Flanders and holds an ERC starting grant. Acknowledgments of the DDD Study are included in the  Supplemental Data . </grant-text>
+</grantList>
+<grantList>
+<!-- GID : DE-AC09-96SR18500.  -->
+<grant-text>
+ Acknowledgement  This work was supported by Savanah River National Lab under the U.S. DOE Contract DE-AC09-96SR18500. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgment  We thank Fabio Vito for technical support. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : PICT-0092 -->
+<!-- GID : #3140526  -->
+<!-- GID : #1120399 -->
+<!-- GID : 1130272  -->
+<!-- GID : #21140948.  -->
+<grant-text>
+ Acknowledgments  EMB thanks useful comments by D. Schwen, P. Erhart, and K. Nordlund, and support from PICT-0092 and a SeCTyP-UNCuyo grant. This work was supported by the Fondo Nacional de Investigaciones Científicas y Tecnológicas (FONDECYT, Chile) under grants #3140526 (RG), #1120399 and 1130272 (MK), and Financiamiento Basal para Centros Científicos y Tecnológicos de Excelencia FB-0807 (RG, FV, JM, and MK). FV was supported by CONICYT Doctoral Fellowship grant #21140948. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : SROP-4.2.2.D-15/1/Ko -->
+<!-- GID : 2015-0015 -->
+<!-- GID : 2015J01028. -->
+<grant-text>
+ Acknowledgements  The present scientific contribution is dedicated to the 650th anniversary of the foundation of the University of Pécs, Hungary. The authors acknowledge the Hungarian–Chinese Intergovernmental S&amp;T Cooperation Programme (Project No.: TÉT_12_CN-1-2012-0040, CH-6-26/2012) and the SROP-4.2.2.D-15/1/Konv-2015-0015 project for their financial supports. This work was also supported partially by the Natural Science Foundation of Fujian Province of China, No.: 2015J01028. Authors express their gratitude to Prof. Dr. Miklós Nyitrai and Ilike Brunnerné (Department of Biophysics, University of Pécs) for offering ultracentrifugation equipment. Authors also appreciate the helps from Dr. Barna Kovács and Dr. Aleksandar Secenji (Department of General and Physical Chemistry, University of Pécs) in TGA measurements. YL is grateful to Dr. Jan M. Englert (ZMP, University of Erlangen–Nuremberg) for his valuable suggestions concerning scanning Raman spectroscopy. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We acknowledge the support of Department of Science and Technology, New Delhi. We thank Gargi Mishra for her help in the fabrication of MCC. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  The authors thank Dr. Fei Deng from the Department of Materials Science Engineering at the University of Delaware for his significant technical support with SEM measurements. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors wish to express thanks to Dr. K. Nagarajan and Dr. U. Kamachi Mudali for their encouragement and support to this work. We sincerely acknowledge the help of Dr. Ch. Jagadeeswara Rao and A. Ravi Shankar for their help in the SEM imaging of the graphite samples and Mr. N. Sanil, Mrs. L. Shakila and Mr. V. Arun Kumar for their help in the electrolysis experiments. Dr. D. Sri Maha Vishnu and Dr. Jagadeesh Sure acknowledge the grant of the research fellowship from IGCAR, Department of Atomic Energy, India. </grant-text>
+</grantList>
+<grantList>
+<!-- MEST FOUND: Ministry of Education, Science and Technology exact 1.0  -->
+<grant>
+<grant-agency><organization>Ministry of Education, Science and Technology</organization><country iso-code= "KR"  /></grant-agency>
+<grant-agency-id>501100004085</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgment  Tsu-Wei Chou thanks the support of the National Research Foundation of Korea through the Korean Ministry for Education, Science and Technology (MEST). Ping Xu’s study abroad at the University of Delaware is supported by the State Scholarship Fund of the China Scholarship Council as well as Doctorial Innovation Fund of Donghua University. </grant-text>
+</grantList>
+<grantList>
+<!-- Saint Petersburg State University  FOUND: Saint Petersburg State University similarity metric 1.0  -->
+<!-- Russian Foundation for Basic Research  FOUND: Russian Foundation for Basic Research similarity metric 1.0  -->
+<!-- RFBR FOUND: Russian Foundation for Basic Research exact 1.0  -->
+<!-- GID : 13-02-91327 -->
+<!-- GID : RA 1041/3-1 -->
+<grant>
+<grant-agency><organization>Russian Foundation for Basic Research</organization><country iso-code= "RU"  /></grant-agency>
+<grant-agency-id>501100002261</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>Russian Foundation for Basic Research</organization><country iso-code= "RU"  /></grant-agency>
+<grant-agency-id>501100002261</grant-agency-id>
+</grant>
+<grant>
+<grant-id>11.38.271.2014</grant-id>
+<grant-agency><organization>Saint Petersburg State University</organization><country iso-code= "RU"  /></grant-agency>
+<grant-agency-id>501100004285</grant-agency-id>
+</grant>
+<grant>
+<grant-id>15.61.202.2015</grant-id>
+<grant-agency><organization>Saint Petersburg State University</organization><country iso-code= "RU"  /></grant-agency>
+<grant-agency-id>501100004285</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  This work was supported by grants of Saint Petersburg State University (11.38.271.2014 and 15.61.202.2015), Russian Foundation for Basic Research (RFBR) projects (Project No. 13-02-91327) and was performed in the framework of a collaboration between the Deutsche Forschungsgemeinschaft and RFBR (RA 1041/3-1). The authors acknowledge support from Russian–German laboratory at BESSY II, the program “German–Russian Interdisciplinary Science Center” (G-RISC) and the Resource Center of Saint-Petersburg State University “Physical Methods of Surface Investigation”. </grant-text>
+</grantList>
+<grantList>
+<!-- National Natural Science Foundation of China  FOUND: National Natural Science Foundation of China similarity metric 1.0  -->
+<!-- GID : 51321002 -->
+<!-- GID : 1150948 -->
+<grant>
+<grant-agency><organization>National Natural Science Foundation of China</organization><country iso-code= "CN"  /></grant-agency>
+<grant-agency-id>501100001809</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgment  This work was financially supported by the National Natural Science Foundation of China (No.51322603, 51136001, 51356001), the Program for New Century Excellent Talents in University, Tsinghua National Laboratory for Information Science and Technology, and Science Fund for Creative Research Group (No. 51321002). Tianli Feng and Xiulin Ruan acknowledge partial support from the US National Science Foundation CAREER Award (Grant No. 1150948). </grant-text>
+</grantList>
+<grantList>
+<!-- CSIRO FOUND: Commonwealth Scientific and Industrial Research Organisation exact 1.0  -->
+<grant>
+<grant-agency><organization>Commonwealth Scientific and Industrial Research Organisation</organization><country iso-code= "AU"  /></grant-agency>
+<grant-agency-id>501100000943</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgements  The authors acknowledge Deakin University for providing the PhD scholarships. We thank Dr. David Fox (CSIRO) and Dr. Xiangping Sun (Deakin) for developing the software to automatically measure the cyclic tensile strength and conductivity). We also thank Dr. Jane Dai, and Gayathri Devi Rajmohan for providing the SourceMeter. We thank Dr. Anthony Somers (Burwood Campus, Deakin University, Australia) for the thickness measurement, Dr. Mark Nave and Dr. Andrew Sullivan for discussion about SEM imaging, Dr. Rob Jones (Latrobe University, Victoria, Australia) for assistance with XPS test, and Sandy Benness and John Robin for the technical supports. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  Authors are thankful for the technical support and facilities at CIMAV Monterrey and Chalmers University of Technology, Department of Materials and Manufacturing Technology, as well as to the Mexican National Research Council CONACyT for the scholarship. Lilia Bautista and Nayely Pineda for UV–Vis spectra and SEM micrographs, respectively, are also acknowledged. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  The authors thank Jean-François Marêché for his technical help for the chemical treatments. The authors would like to thank Lionel Aranda for his help for TGA experiments and Anne Vernière for her help during the Mössbauer measurements. The authors thank Pascal Franchetti for his technical help for Raman spectroscopy investigation. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : DE-AC02-06CH11357. -->
+<grant-text>
+ Acknowledgment  The submitted manuscript has been created by UChicago Argonne, LLC, Operator of Argonne National Laboratory (“Argonne”). Argonne, a U.S. Department of Energy Office of Science laboratory, is operated under Contract No. DE-AC02-06CH11357. The U.S. government retains for itself, and others acting on its behalf, a paid-up nonexclusive, irrevocable worldwide license in said article to reproduce, prepare derivative works, distribute copies to the public, perform publicly and display publicly, by or on behalf of the government. The authors thank the Advanced Engine Combustion Program at the U.S. Department of Energy Office of Vehicle Technologies, Corning Inc. and Hyundai motor company for their support. Furthermore, the use of the TEM instruments at the Center for Nanoscale Materials facility and the Electron Microscopy Center was supported by the U. S. Department of Energy, Office of Science, Office of Basic Energy Sciences. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors would like to thank Jeff McGrew for advice on mutant generation and Ganesh Vedantham and Eva Gefroh for critical reading of this manuscript. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors would like to acknowledge the help of Dr. Richard Wilson and Dr. Noel Davies of the Central Science Laboratory, University of Tasmania for providing mass spectrometry support. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  We kindly thank Prof. Enrico Marcantoni for the useful discussions about the study presented. We would also like to thank Sheila Beatty for editing the English usage of the manuscript. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  We wish to thank all patients and parents who participated in this study. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  The manuscript of this article was submitted by the first author in partial fulfillment of the requirements for the degree in master of public health. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  Participant expenses were paid by the Department of Psychology, Humboldt Universität zu Berlin. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  None. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  Our special thanks go to the staff and service users of OASIS. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We thank our subjects for participating in this study. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgment  We thank Dr. Maren Schneider and Dr. Stefanie Bokemeyer for their assistance in interviewing patients, in data collection and general support; Birgit Wiese and Nelly Simetska for their epidemiological guidance and help in statistical analysis; and Prof. Dr. Uwe Hartmann for helpful comments on an earlier draft of the manuscript. We thank all our patients and controls who participated in this study.  We received no financial support for this study. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We want to thank for the support and for providing the patients to the Mental Health division of Althaia Foundation, Man Project Foundation from Catalonia, ATRA group and the Mental Health and Addictions Division of Mataró Hospital. We are grateful to Silvia López-Vera who assisted in collecting data. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  The authors thank Miwako Nakamura, Kaoru Ikeda, Chisako Fujishiro, Kyoko Tanabe, Ayumi Uchida, Nao Miyazaki, Aya Hattori, Komako Ito (Chiba University), the staff of the Department of Nursing, Chiba University Hospital, and Chiba University Hospital Clinical Research Center for their assistance with this trial. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  This research was supported by the UM Department of Psychology provided for Dr. Patricia Deldin, and Rackham Graduate School provided for Dr. Philip Cheng. We would also like to thank the Department of Psychiatry, and the Depression Center for their continued support. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We thank the patients for their participation, the psychiatrists/psychologists of the involved wards for their support, and Almut Carolus and Petia Popova for administrative support in data acquisition. The University of Konstanz supported the project. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors are thankful to the staff and service users of the Early Intervention Teams and Adult Education Colleges for their participation in this study. Additionally, helpful advice regarding mediational analysis was provided by Dr Filippo Varese. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgment  We would like to show our great appreciation to the clinical staff and participants at the hospitals for their support and assistance in data collection. There was no external funding for this study. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We wish to thank Carmela Chateau-Smith for her significant assistance with the preparation of this paper and Myriam Gravelle and Georges Edme for their help with collecting data. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgment  The authors are grateful to the participants and the nursing staff of Anhui Mental Health Center in this study for their support in the data collection. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  We acknowledge the support provided by the Cognitive Psychotherapy Schools “Studi Cognitivi” and “Psicoterapia e Ricerca” of Milano, Italy, by the School of Applied Sciences of the London South Bank University, by the Azienda Sanitaria di Bolzano, Bolzano, Italy, by the University of Milano-Bicocca of Milano, Italy, and by the Macquarie University of Sydney, Australia. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We want to thank for providing the patients to the Gressol Man Project Foundation in Catalonia, Red Cross, Vall d’Hebron University Hospital, ATRA and Septimania Association. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : N01 MH900001 -->
+<!-- GID : 2N01MH080001-001 -->
+<grant-text>
+ Acknowledgments  Thanks to the NIMH Center for Collaborative Genetic Studies on Mental Disorders and the Psychiatric GWAS Consortium (PGC) for providing their full sample GWAS results, individual quality controlled genotypes, and individual level dosage data for distribution to qualified investigators. We are deeply grateful to the NIMH, United States (N01 MH900001; 2N01MH080001-001), for their sponsorship of the PGC. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgment  The authors appreciate all the participating survivors of the disaster and the investigators. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  All authors declare no Conflicts of Interest and Source of Funding. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgement  The research project PSYCHOCOKE received a grant from the French Ministry of Health (Programme Hospitalier de Recherche Clinique National 2010, AOM10165), and is promoted by the DRCD (Direction de la Recherche Clinique et du Developpement) of the Assistance Publique–Hopitaux de Paris. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  The authors of this paper are grateful for the assistance of the following people: Ahuva Netzer, Eran Maresse, Marsel Dahari, Mazi Amos, Riva Alkalay and Steven Flint. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  The author would like to thank Prof. Steffen Moritz for his help in collecting data for the healthy control group and for his valuable comments on an earlier version of the manuscript. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  There are no conflicts of interest to report. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  This research was made possible by the collaboration of Instituto de Trabajo Social y de Servicios Sociales (Intress), which manages many of the centers which make up the public social care network for people with mental illness in the Communities of Madrid, Catalonia and the Balearic Islands. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgement  None </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors would like to thank Lian Roebers (Rijnstate hospital) for her assistance in data collection.  There was no funding source and no writing assistance. </grant-text>
+</grantList>
+<grantList>
+<!-- Ministry of Science and Technology of the People's Republic of China FOUND: Ministry of Science and Technology of the People's Republic of China exact 1.0  -->
+<grant>
+<grant-id>2012ZX09303006-002</grant-id>
+<grant-agency><organization>Ministry of Science and Technology of the People's Republic of China</organization><country iso-code= "CN"  /></grant-agency>
+<grant-agency-id>501100002855</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  The study was supported by the “12th Five-year” National Key Technology R&amp;D Program of China [Ministry of Science and Technology of the People's Republic of China] (No. 2012ZX09303006-002) and Zhejiang Beta Pharma Inc. (Zhejiang, China). </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors thank Mr. Yongqiang Xie and Mr. Xinhua Xue for technical supports. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgement  We thank Dr. Hongyan Xu from the Department of Biostatistics and Epidemiology, Medical College of Georgia, Georgia Regents University for his critical review and comments. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : TL1 -->
+<!-- Spectrum  FOUND: Spectrum Pharmaceuticals remove stop words 0.9  -->
+<!-- National Institutes of Health  FOUND: National Institutes of Health similarity metric 1.0  -->
+<!-- National Institutes of Health  FOUND: National Institutes of Health similarity metric 1.0  -->
+<grant>
+<grant-id>K12 CA 138464</grant-id>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-id>NIH TL1 TR 001084</grant-id>
+<grant-agency><organization>Spectrum Pharmaceuticals</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100006399</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgements  This was an investigator-initiated study funded and supported by Novartis, Genentech, and the Stanford Clinical and Translational Research Unit (National Center for Advancing Translational Sciences UL1 TR001085 at the National Institutes of Health). This work was conducted with support from the TL1 Clinical Research Training Program of the Stanford Clinical and Translational Science Award to Spectrum (NIH TL1 TR 001084) and the Stanford Cancer Institute Fellowship Award ( SKP ); National Institutes of Health (NICHD K23 HD 079557) ( AF ); and the National Institutes of Health (K12 CA 138464) ( JWR ). </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The paper was created as part of the task ‘ Risk assessment for incidence and death  of  asbestos - related  diseases among persons occupationally exposed  to asbestos dust on the basis of long-term epidemiological observation’  ( NIOM ,  10.14 ).  The authors of this publication would like to thank all the people who cooperated in implementation of the ‘Amiantus’ project, particularly the physicians who performed periodic examinations in the regional centers of occupational medicine and those who encoded radiological changes. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  The authors are grateful to the enrolled patients and to the staff of the five participating institutions. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  Exceptionally, we thank Sven Gunia, MD, FRCPath (Department of Pathology at the Johanniter Hospital Stendal, Germany) for his contribution in the histopathologic evaluation of the study cases enrolled in the present study and for providing insight and expertise that greatly assisted the research. We thank Stefanie Götz and Nina Niessl (Department of Urology, Regensburg University, St. Josef Medical Center, Regensburg, Germany) for assistance with immunohistochemistry.  In alphabetical order, we would like to express our thanks to the following department directors who kindly supported the present study by providing archival slides and wax-embedded tissues for investigations: V. Henn, MD (Department of Pathology, Ruppiner Clinics GmbH, Germany), J. Jander, MD (Department of Pathology, Rhön Clinic Frankfurt/Oder, Germany), H. Lobeck, MD (Department of Pathology, Ernst-von-Bergmann Clinic Potsdam, Germany), R. Pauli, MD (Department of Pathology, Health Care Center Brandenburg an der Havel GmbH, Germany), Uwe Schmidt (Outpatient Department of Urology, Görlitz, Germany) and M. Tuffaha (Department of Pathology, Carl-Thiem Clinic Cottbus, Germany). </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We thank Angela Gröbner, Christiane Geier, Cornelius Wölfel and other colleagues from the institute of pathology for technical assistance. Further, we are indebted to Piere Rogalla and Sven Hauke from ZytoVision GmbH for providing the KRAS/CEN12 and CEN4/CEN10 dual color FISH probes. Last but not least we thank Hans-Joachim Schulz and Thomas Meier for providing tumor samples. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  There are of course many contributors to a literature review such as this and hence any omissions are apologized for in advance. The authors would like to thank in particular the risk and cost estimation communities at ACostE, Rolls-Royce plc., and Cranfield University. </grant-text>
+</grantList>
+<grantList>
+<!-- Ministry of Health, Labour and Welfare of Japan  FOUND: Ministry of Health, Labour and Welfare remove stop words 0.9  -->
+<grant>
+<grant-id>H24-Sh</grant-id>
+<grant-agency><organization>Ministry of Health, Labour and Welfare</organization><country iso-code= "JP"  /></grant-agency>
+<grant-agency-id>501100003478</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgements  We thank National Institute of Animal Health, Japan for kindly providing the bovine ephemeral fever virus YHL strain and anti-BEFV rabbit sera. This experiment was supported by grants from the Ministry of Health, Labour and Welfare of Japan (H24-Shinko-Ippan-006; H25-Shinko-Ippan-008). </grant-text>
+</grantList>
+<grantList>
+<!-- GID : 31372465 -->
+<grant-text>
+ Acknowledgements  This work was supported by 31372465 from the National Science Grant of China and a project funded by the Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD). </grant-text>
+</grantList>
+<grantList>
+<!-- GID : LR02AGRO3 -->
+<!-- GID : 06-680-0029 -->
+<!-- GID : PS1.3.023 -->
+<grant-text>
+ Acknowledgements  This work was supported by (i) the Laboratoire d’épidémiologie d’infections enzootiques des herbivores en Tunisie (LR02AGRO3), funded by (ii) the Ministry of Higher Education and Scientific Research of Tunisia, the research project Epidémiologie de maladies bactériennes à transmission vectorielle des herbivores (06-680-0029) which is funded by the Ministry of Agriculture of Tunisia and (iii) the research project PS1.3.023–RESTUS funded by the European Neighbourhood and Partnership Instrument (ENPI) - Transboundary Cooperation (TC) - Italy-Tunisia 2007-2013. The authors would like to thank Dr. Leïla Sayhi (Sejnane), Dr. Hichem Talhaoui (Joumine), Dr. Rabeh Bouazizi (El Alia) and Dr. Samir Touil (Amdoun). They are also grateful to Dr. Safa Aouled Amor, Farhat Ben Khedher, Fethi Jelassi, and Khaled Souissi for their technical support. They are thankful to Pr. Ali Bouattour for his assistance in ticks’ identification and to Pr. Armanda Bastos for providing DNA of  A. bovis . </grant-text>
+</grantList>
+<grantList>
+<!-- GID : FP7 2007-2013 -->
+<!-- GID : PITN-GA-2008-214505.  -->
+<grant-text>
+ Acknowledgements  The authors thank Kerstin Rohn for excellent technical assistance in using the TEM. This work was supported by the European Community’s Seventh Framework Programme (FP7 2007-2013) under grant agreement number PITN-GA-2008-214505. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : 14-151.  -->
+<grant-text>
+ Acknowledgements  The authors wish to thank Josh Filson and Jennifer Staten for their assistance with the animal housing and care. This work was supported by the National Pork Checkoff and the Ohio Pork Producers Council under project number 14-151. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : RGP_020  -->
+<grant-text>
+ Acknowledgements  We wish to express our sincere thanks to Lara Nicholson and Eduard Roos, University of Pretoria, for technical assistance. This research was supported by the Deanship of Scientific Research at King Saud University through the research group project number RGP_020 (ANA, OBM, NCB), and by individual (ADSB), chair (NCB) and facilities (No: UID78566) grants awarded by the National Research Foundation of South Africa. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : CONICYT/FONDAP/15110027 -->
+<!-- Comisión Nacional de Investigación Científica y tecnológica  FOUND: Comisión Nacional de Investigación Científica y Tecnológica remove stop words 0.9  -->
+<!-- GID : AGL2013-42628-R -->
+<!-- Ministerio de Economía y Competitividad  FOUND: Ministerio de Economía y Competitividad similarity metric 1.0  -->
+<grant>
+<grant-agency><organization>Ministerio de Economía y Competitividad</organization><country iso-code= "ES"  /></grant-agency>
+<grant-agency-id>501100003329</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>Comisión Nacional de Investigación Científica y Tecnológica</organization><country iso-code= "CL"  /></grant-agency>
+<grant-agency-id>501100002848</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgements  This work was supported in part by grants CONICYT/FONDAP/15110027 from the Comisión Nacional de Investigación Científica y tecnológica (Chile) and AGL2013-42628-R from the Ministerio de Economía y Competitividad (Spain). A.L. acknowledges the Ministerio de Economía y Competitividad (Spain) for a research fellowship. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  This work was supported by National Animal Health Laboratory Network (NAHLN) and the Iowa State University Veterinary Diagnostic Laboratory. The sponsors had no role in designing, data collection, interpretation of the results, or writing of the manuscript. The authors have no potential conflicts of interest with respect to the research, authorship and/or publication of this manuscript. The authors thank Wendy Stensland, Laura Bradner, Joe Thompson and Joseph Brodie for assistance with testing and providing the samples for this study. The authors also thank Brett Crim for his technical assistance. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  This work was supported by the Veterinary Summer Research Grants from Department of Biomedical Sciences, College of Veterinary Medicine at Oregon State University. We also like to thank Dr. Jorge Vanegas for the assistance of cow blood collection. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : ANR-11-LABX-0048 -->
+<!-- GID : ANR-11-IDEX-0007 -->
+<!-- French National Research Agency  FOUND: Agence Nationale de la Recherche remove stop words 0.9  -->
+<!-- ANR FOUND: Agence Nationale de la Recherche exact 1.0  -->
+<grant>
+<grant-agency><organization>Agence Nationale de la Recherche</organization><country iso-code= "FR"  /></grant-agency>
+<grant-agency-id>501100001665</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>Agence Nationale de la Recherche</organization><country iso-code= "FR"  /></grant-agency>
+<grant-agency-id>501100001665</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgements  This study complied with the animal care regulations and applicable national laws in Gabon. Samples were taken by the CIRMF veterinarian, Barthélemy Ngoubangoye, accredited FELASA (Federation of European Laboratory Animal Science associations) n°2011-38. We thank the technicians and veterinarians from the CIRMF for their help in collecting data and Robin Buckland for having carefully read and corrected the English of the paper. This work was performed within the framework of the LABEX ECOFECT (ANR-11-LABX-0048) of Université de Lyon, within the program ‘Investissements d'Avenir’ (ANR-11-IDEX-0007) operated by the French National Research Agency (ANR). </grant-text>
+</grantList>
+<grantList>
+<!-- UERJ FOUND: Universidade do Estado do Rio de Janeiro exact 1.0  -->
+<grant>
+<grant-agency><organization>Universidade do Estado do Rio de Janeiro</organization><country iso-code= "BR"  /></grant-agency>
+<grant-agency-id>501100006702</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgements  This study was supported by FAPERJ, CNPq and CAPES. WL, FZB and MAM are CNPq fellows. The authors thank Leonardo Galileu Meirelles (IVB) for his help on sampling, Prof. Dr. Rafael Hirata (UERJ) for his help in immunofluorescence, and G. Martins (UFF) for his help on statistics. </grant-text>
+</grantList>
+<grantList>
+<!-- Natural Science Foundation of China  FOUND: National Natural Science Foundation of China similarity metric 0.9128709435462952  -->
+<!-- GID : 973 -->
+<!-- GID : 2014CB542700 -->
+<grant>
+<grant-agency><organization>National Natural Science Foundation of China</organization><country iso-code= "CN"  /></grant-agency>
+<grant-agency-id>501100001809</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  This study was supported by Natural Science Foundation of China (grant no. 31302098); National Basic Research Program of China (973 Plan, grant no. 2014CB542700)  Dr. Jiang is a staff of Shanghai Veterinary Research Institute, Chinese Academic of Agricultural Sciences. His research focus is on epidemiology and molecular biology and vaccinology of porcine reproductive and respiratory syndrome virus. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements and funding  All French veterinarians reporting cases to the RESPE are gratefully acknowledged. Christel MARCILLAUD-PITEL and Charlène DAIX are gratefully acknowledged for their help with data collection, and Julie Storme for her valuable assistance in manuscript editing. Laboratory Franc Duncombe, Caen France is acknowledged for their analytical work. This study was funded by the RESPE. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We thank Sibylle Bürki, of the Institute for Veterinary Bacteriology, Vetsuisse Faculty University of Bern, Switzerland, for mycoplasma preparation. The  Staphylococcus aureus  strain 1904 was kindly provided by Prof. R. Stephan, Institute for Food Safety and Hygiene, Vetsuisse Faculty University of Zurich, Switzerland. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : Z-1541779 -->
+<!-- GID : 2013-1181 -->
+<!-- Small and Medium Business Administration  FOUND: Small and Medium Business Administration similarity metric 1.0  -->
+<grant>
+<grant-id>S2130867</grant-id>
+<grant-agency><organization>Small and Medium Business Administration</organization><country iso-code= "KR"  /></grant-agency>
+<grant-agency-id>501100003663</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  The authors thank Dr. Y.K. Choi (Chungbuk National University, Cheongju, Korea) and Dr. Man Ki Song (Laboratory Science Division, International Vaccine Institute, Seoul, Republic of Korea) for providing the challenge viruses and cholera toxin (CT) respectively. This study was supported by The Internal Research Fund of Animal, Plant and Fisheries Quarantine and Inspection Agency (QIA) (Grant no. Z-1541779, 2013-1181)], the Small and Medium Business Administration (S2130867) and Chungnam National University in 2014. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  This research was supported by a grant from Animal and Plant Quarantine Agency, Ministry of Agriculture, Food and Rural Affairs, Anyang, Republic of Korea. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors wish to thank Dr. James Gilkerson, University of Melbourne for providing the equine adenovirus isolate used in this study. CG was a recipient of a University of South Australia Postgraduate Award. </grant-text>
+</grantList>
+<grantList>
+<!-- The University of Tokyo FOUND: University of Tokyo remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>University of Tokyo</organization><country iso-code= "JP"  /></grant-agency>
+<grant-agency-id>501100004721</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  The authors are very grateful to the reviewers and the Associate Editor Prof. Jin-Yi Cai, for their comments and suggestions that improved the presentation and quality of this paper.  The authors thank the 266 nephrologists who participated to the survey and helped us understand their practice pattern. The authors also thank Dr. Yves Gendreike (University Hospital of Nice), who provided data on procedure codings.  We acknowledge the catheterization expertise of Drs Nobuhiro Suematsu of Fukuoka Red Cross Hospital, Tatsuya Shiraki of Kansai Rosai Hospital, Yoshiaki Shintani of Shin Koga Hospital, Yusuke Miyashita of Shinshu University School of Medicine, Masashi Fukunaga of Hyogo College of Medicine, Taketsugu Tsuchiya of Kanazawa Medical University, and Makoto Utsunomiya of Tokyo Rosai Hospital.  Special acknowledgments to Julie Flahive, MS who contributed to the data collection and statistical analysis for the article. Acknowledgements to Andres Schanzer, MD and Donald T. Baril, MD who contributed to the manuscript and final approval of the article. Acknowledgements to David H. Stone, MD, Jeffrey A. Kalish, MD, and Virendra I. Patel who participated in critical review of the article. Rachelle N. Damle participated in drafting of the manuscript for the article.  We would like to thank M.M.H.C. Bijvelds, M.J.W. van Galen, and A. Boekee, students at Fontys University of Applied Sciences, Department of Physiotherapy, for support in patient measurements, as well as F.A.M. Brooijmans, physical therapist, for using his equipment and practice.  Notably, foam sclerotherapy was not inferior to surgical treatment. Therefore, our results indicate that foam sclerotherapy is an alternative to surgical treatment that is particularly suitable for high surgical risk patients presenting with advanced venous insufficiency and an active ulcer.  The authors are grateful to I. Koshima (The University of Tokyo) and N. Murai, H. Tsubaki, and S. Harasawa (Saiseikai Kawaguchi General Hospital) for their support in helping deliver the best lymphatic treatment for our patients; S. Tange and M. Zhou of Tokyo University; and K. Tatebayashi and K. Miyazaki of Nagara Medical Center. The report sponsor had no role in the data collection or manuscript writing and submission process.  The authors thank Pr. Alan Dardik (Yale University, USA), Pr. Réda Hassen-Khodja, and Dr. Serge Declemy (University of Nice–Sophia Antipolis, France) for the revision of the article, as well as Mr. Benjamin Maes (University of Nice–Sophia Antipolis, France) for his professional artistic drawings.  The authors would like to thank Major Krystal Bean, Mr. Eugene Cauley, Ms. R. Rochelle Newsome, and Ms. Leticia Simon for their support with animal care and surgery. Thanks to Dr. Bradley Bandera for his assistance in surgical procedures. Thanks to Dr. Moo Wong for his expertise in the pathologic review. Thanks to First Lieutenant Tiffany Schlueter for her assistance in the editing process.  The authors would like to thank Prof Michael Sheaff, Consultant Pathologist, Dr Sandeep Pathak, Consultant Radiologist, and Mr Stephen Brearley, Consultant Surgeon, Whipps Cross Hospital, UK for their kind input to this article.  The authors are grateful for the total cooperation received from Eri Saeki, Izumi Masuda, Sachiko Kimura, and Shigeru Harasawa (Saiseikai Kawaguchi General Hospital). </grant-text>
+</grantList>
+<grantList>
+<!-- Shiraz University of Medical Sciences  FOUND: Shiraz University of Medical Sciences similarity metric 1.0  -->
+<grant>
+<grant-id>91-01-36-4870. </grant-id>
+<grant-agency><organization>Shiraz University of Medical Sciences</organization><country iso-code= "IR"  /></grant-agency>
+<grant-agency-id>501100004320</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  The present article was financially supported by Shiraz University of Medical Sciences grants No. 91-01-36-4870. </grant-text>
+</grantList>
+<grantList>
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<!-- GID : T32 GM008602  -->
+<!-- DoD  FOUND: U.S. Department of Defense remove stop words 0.9  -->
+<!-- GID : 20902013  -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-id>W81XWH-12-1-0217 </grant-id>
+<grant-agency><organization>U.S. Department of Defense</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000005</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Cancer Tissue and Pathology Core of Emory University for providing primary cancer patient tissue samples. This work was supported in part by NIH grants CA140515, CA183594, CA174786 (J.C.), CA175316 (S.K.), GM071440 (C.H.), and AR47901 (J.L.A.); the Pharmacological Sciences Training Grant T32 GM008602 (S.E.); DoD grant W81XWH-12-1-0217 (J.C.); National Natural Science Funds of China No.20902013 (L.Z.); the Jamie Rabinowitch Davis Foundation (J.L.A.); the Charles Harris Run For Leukemia, Inc. (H.J.K.); and the Hematology Tissue Bank of the Emory University School of Medicine and the Georgia Cancer Coalition (H.J.K.). H.J.K., F.R.K., S.K., and J.C. are Georgia Cancer Coalition Distinguished Cancer Scholars. S.K. and J.C. are American Cancer Society Basic Research Scholars. J.C. is a Scholar of the Leukemia and Lymphoma Society. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : C17183/A13030 -->
+<!-- MRC FOUND: Medical Research Council exact 1.0  -->
+<!-- GID : MR/M009882/1 -->
+<!-- GID : 13-1012 -->
+<!-- European Research Council  FOUND: European Research Council similarity metric 1.0  -->
+<!-- ERC FOUND: European Research Council exact 1.0  -->
+<!-- ERC  FOUND: European Research Council remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>European Research Council</organization><country iso-code= "BE"  /></grant-agency>
+<grant-agency-id>501100000781</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>European Research Council</organization><country iso-code= "BE"  /></grant-agency>
+<grant-agency-id>501100000781</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>European Research Council</organization><country iso-code= "BE"  /></grant-agency>
+<grant-agency-id>501100000781</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>Medical Research Council</organization><country iso-code= "GB"  /></grant-agency>
+<grant-agency-id>501100000265</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We are extremely grateful to Hongtao Yu, Luis Toledo, Michelle Debatisse, Benoît Le Tallec, Ross Warrington, and Fumiko Esashi for valuable reagents. We thank Aga Gambus, Roger Grand, Eva Petermann, and Malcolm Taylor for invaluable discussions. M.R.H., E.S.M., and G.S.S. are funded by a Cancer Research UK (CR-UK) Senior Fellowship (C17183/A13030). J.J.R. is funded by the University of Birmingham and a Medical Research Council (MRC) project grant (MR/M009882/1). A.N.B., A.W., J.N., and W.N. are funded by Worldwide Cancer Research and MRC Senior Non-Clinical Fellowships awarded to W.N. A.Z. is funded by Worldwide Cancer Research (13-1012). E.L.R. is funded by an MRC Ph.D. studentship. N.J.D. and T.S. are funded by a Leukemia and Lymphoma Research program grant (11045). V.B. is funded by the European Research Council (ERC), and S.J.B. is supported by the Wellcome Trust, CR-UK, and the ERC (RecMitMei). </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We thank Ben Blencowe for plasmids and James Goodrich for Gal4-p53. H.Z. was a Chinese Scholarship Council Fellow and a Philip Whitcome Fellow. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : DGE1144152  -->
+<!-- Damon Runyon Cancer Research Foundation under  FOUND: Damon Runyon Cancer Research Foundation similarity metric 0.9128709435462952  -->
+<grant>
+<grant-agency><organization>Damon Runyon Cancer Research Foundation</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100001021</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank A. Sanchez for her technical work in support of this project; D. Klionsky, A. Amon, and J. Nunnari for reagents; R. Kunz and B. Budnik for mass spectrometry analysis; A. Gutu and N. Weir for fluorescence microscopy assistance; T. Giddings, M. Morphew, and University of Colorado Boulder EM Service for transmission electron microscopy; J. Weissman, A. Murray, E. O’Shea, D. Kahne, and B. Stern for critical reading of the manuscript; and members of the Denic laboratory for scientific advice. This work was supported by the National Science Foundation Graduate Research Fellowship under grant number DGE1144152 (to R.A.K.), a postdoctoral fellowship from the Damon Runyon Cancer Research Foundation under grant number DRG2130-12 (to C.J.S.), and Harvard University. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : 15K07062 -->
+<!-- GID : 15H01546 -->
+<grant-text>
+ Acknowledgments  We apologize for not being able to cite all relevant publications due to space limitations, and we thank the referees for their careful reading of this review and constructive criticisms. This work was supported by MEXT/JSPS KAKENHI (15K07062 and 15H01546 to D.M. and 24227009 to K.N.). </grant-text>
+</grantList>
+<grantList>
+<!-- GID : GM026154 -->
+<!-- National Institutes of Health FOUND: National Institutes of Health exact 1.0  -->
+<!-- Sweden-America Foundation FOUND: Sweden-America Foundation exact 1.0  -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>Sweden-America Foundation</organization><country iso-code= "SE"  /></grant-agency>
+<grant-agency-id>501100001727</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Luke Gilbert and Jonathan Weissman for the kind gift of dCas9 system plasmids, Karen Adelman and Telmo Henriques for input on the CapSeq protocol, and Reut Shalgi for advice in designing the DoG-finding pipeline. We are grateful to Mingyi Xie, Nara Lee, Genaro Pimienta, and Eric Guo for plasmids, reagents, and protocols; Johanna Withers and Jessica Brown for critical discussion; and Angela Miccinello for editorial assistance. This work was supported by grant GM026154 from the National Institutes of Health. A.V. is supported by the Wenner-Gren Foundations, the Swedish Society for Medical Research, and the Sweden-America Foundation. J.A.S. is an Investigator at the Howard Hughes Medical Institute. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We thank Tobias Fuhrer and Manuel Hörl for their support in interpreting the  13 C-labelling experiments. This work was partially funded by SystemsX.ch (IPhD grant to A.K.).  H.E., J.S., M.W., F.F., H.W., S.G., L.T., and J.H. are employees of Beiersdorf AG. This work was supported in part by a grant from Beiersdorf AG. </grant-text>
+</grantList>
+<grantList>
+<!-- Cancer Prevention and Research Institute of Texas  FOUND: Cancer Prevention and Research Institute of Texas similarity metric 1.0  -->
+<!-- Welch Foundation  FOUND: Welch Foundation similarity metric 1.0  -->
+<grant>
+<grant-agency><organization>Cancer Prevention and Research Institute of Texas</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100004917</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>Welch Foundation</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000928</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Dr. Cheng-Ming Chiang for purified human histones, Dr. Bing Li for assistance with nucleosome preparations, and the UT Southwestern Proteomics Core Facility for mass spectrometry analysis. H.Y. is an investigator with the Howard Hughes Medical Institute. This work is supported by the Cancer Prevention and Research Institute of Texas (RP120717-P2 and RP110465-P3) and the Welch Foundation (I-1441). </grant-text>
+</grantList>
+<grantList>
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Dr. Andrew L. Kung and Dr. David Baltimore for generously providing reagents. This work was supported by a start-up fund from the University of Cincinnati College of Medicine and the Marlene Harris-Ride Cincinnati Pilot Grant Program (S.-O.Y.) and NIH grants GM51405, HL121266, and CA46595 (J.B.). We thank Min Yuan for help with mass spectrometry experiments. The work was partially funded by NIH grants P01CA120964 (J.M.A.) and P30CA006516 (J.M.A.). </grant-text>
+</grantList>
+<grantList>
+<!-- National Institutes of Health  FOUND: National Institutes of Health similarity metric 1.0  -->
+<!-- NIH FOUND: National Institutes of Health exact 1.0  -->
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<!-- GID : GM000678 -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Weiping Mu for  Eed   −/−   ESCs and Della Yee for assistance in culturing the ES lines. This research is supported by grants from the National Institutes of Health (NIH), CA181343 (S.B.R.), GM108367 (J.R.R.), GM100616 (S.Z.J.), GM80896 (S.M.F.), and GM110058 (B.D.S.). B.M.D. acknowledges Stephen Frye for grant support from NIH (GM100919). E.K.S. acknowledges support from an Institutional Research and Academic Career Development Award (GM000678) granted by the National Institute of General Medical Sciences, division of Training, Workforce Development, and Diversity. B.D.S. also acknowledges support from the W.M. Keck Foundation and is a co-founder of EpiCypher, Inc. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : MC_U105184332 -->
+<!-- GID : WT096570 -->
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<!-- GID : RGP-0028/2009 -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We are grateful to S. Chen, C.G. Savva, K.R. Vinothkumar, G. McMullan, and the staff of FEI for technical support with cryo-EM; T. Darling and J. Grimmett for help with computing; X.C. Bai and S.H.W. Scheres for advice with EM data processing; and G. Murshudov for help with refinement of the atomic coordinates. We also thank A. Kelley and I.S. Fernandez for providing reagents. J.L.L. and T.H. were, respectively, supported by postdoctoral fellowships from FEBS and EMBO. This work was funded by grants to from the UK Medical Research Council (MC_U105184332), Wellcome Trust Senior Investigator award (WT096570), the Agouron Institute and the Jeantet Foundation to V.R.; from the NIH (GM62128) formerly to J.R.L.; the Human Frontiers in Science Program (RGP-0028/2009) to A.G.H., J.R.L., and V.R.; and by the Intramural Research Program of the NIH (A.G.H., J.R.L., and C.E.A.). </grant-text>
+</grantList>
+<grantList>
+<!-- GID : INS-1E -->
+<!-- Swiss National Science Foundation  FOUND: Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung remove stop words 0.9  -->
+<!-- GID : CRSII3_147637 -->
+<!-- Ligue Genevoise Contre le Cancer FOUND: Ligue Genevoise Contre le Cancer exact 1.0  -->
+<grant>
+<grant-agency><organization>Ligue Genevoise Contre le Cancer</organization><country iso-code= "CH"  /></grant-agency>
+<grant-agency-id>501100003360</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung</organization><country iso-code= "CH"  /></grant-agency>
+<grant-agency-id>501100001711</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Dr. K. Maundrell for critical reading of the manuscript, Dr. P. Maechler (CMU, Geneva) for kindly providing us with the INS-1E cells, and C. Bauer and J. Bosset of the Bioimaging center of Geneva for their help during single-cell BRET recording. V.C. was supported by a Marie Curie Intra European Fellowship and by the Institut National de la Santé et de la Recherche Médicale. I.M. was supported by a fellowship from the Ligue Nationale Contre le Cancer and J.P. Lab by Ligue Nationale Contre le Cancer (Equipe labellisée LNCC). This work was supported by the Swiss National Science Foundation (31993A-141068/1), Sinergia (CRSII3_147637) IGE3, the State of Geneva, and the Ligue Genevoise Contre le Cancer. </grant-text>
+</grantList>
+<grantList>
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<!-- National Institute of General Medical Sciences  FOUND: National Institute of General Medical Sciences similarity metric 1.0  -->
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Institute of General Medical Sciences</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000057</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Toby Franks for Myc-Upf1 constructs, Sébastien Durand for the Flag-Smg6 construct derived from a gift of HA-Smg6 from Oliver Muhlemann, Herve Le Hir for the Upf1 ΔNC bacterial expression construct, and Søren Lykke-Andersen for Smg5-3xFlag and Smg7-3xFlag constructs. Thanks to J. Robert Hogg, Dan Pollard, and members of the Lykke-Andersen and Yeo labs for feedback on this work. This study was supported by NIH grant R01 GM099717 to J.L.-A.; NIH grants NS075449, HG004659, HG007005, to G.W.Y.; a Helen Hay Whitney Postdoctoral Fellowship to S.R.L.; and a National Science Foundation Predoctoral Fellowship to G.A.P. F.J.M. is supported in part by a University of California, San Diego, Genetics training grant from the National Institute of General Medical Sciences (T32 GM008666). G.W.Y. is an Alfred P. Sloan Research Fellow. </grant-text>
+</grantList>
+<grantList>
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<!-- GID : #8 UL1 TR000043 -->
+<!-- National Center for Advancing Translational Sciences  FOUND: National Center for Advancing Translational Sciences similarity metric 1.0  -->
+<!-- NCATS FOUND: National Center for Advancing Translational Sciences exact 1.0  -->
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>National Center for Advancing Translational Sciences</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100006108</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Center for Advancing Translational Sciences</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100006108</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank the patient and her family, without whom this study would not be possible. We thank Steve West and John Petrini for providing us with anti-RAD51 and anti-MRE11 antibodies, respectively; Nikola Pavletich for the  RAD51  cDNA construct; and Detlev Schindler for sharing the  RAD50  mutant cell line. We are grateful to all members of the A.S. laboratory for helpful discussion and critical comments on the manuscript. This work was supported by a Starr Center Consortium grant (A.S. and S.B.G.), the Rita Allen Foundation and Burroughs Wellcome Foundation (A.S.), an Irma T. Hirschl Research Award (A.S.), a Doris Duke Clinical Scientist Development Award (A.S.), NIH grant GM62653 (S.C.K.), grant #8 UL1 TR000043 from the National Center for Advancing Translational Sciences (NCATS), and the NIH Clinical and Translational Science Award (CTSA) program. The IFAR is partially supported by NIH grant R01HL120922 (A.S.). A.T.W. was partially funded by Congressionally Directed Medical Research Programs and a Bone Marrow Failure Research Program Postdoctoral Fellowship Training Award (grant log #BM120004).  Remerciements  Je tiens à adresser mes sincères remerciements au Dr F. Garattini pour les précieuses informations qu’il m’a communiquées. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgment  We thank Dr. Masaru Tanaka (Department of Dermatology, Tokyo Women’s Medical University Center East) for his advice. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  Cetuximab was kindly provided by Merck Corporation. </grant-text>
+</grantList>
+<grantList>
+<!-- Canada Research Chairs  FOUND: Canada Research Chairs similarity metric 1.0  -->
+<grant>
+<grant-agency><organization>Canada Research Chairs</organization><country iso-code= "CA"  /></grant-agency>
+<grant-agency-id>501100001804</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgements  We gratefully acknowledge the participation of the patient and the generous support of the BC Cancer Foundation. Marco A. Marra acknowledges the support of Genome BC, Genome Canada, and the Canada Research Chairs program. We are grateful to Alexandra Fok, Payal Sipahimalani and Robyn Roscoe for project management and oversight. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgement  None. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  This study received no specific funding. The authors thank the Dutch hospitals for their collection of the data that are registered in the Dutch Injury Surveillance System. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  Financial assistance was not provided for this methodological review. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : DEP 2010-21662-C04-00 -->
+<grant-text>
+ Acknowledgment  IEC was supported by a contract from the UP&amp;DOWN study (DEP 2010-21662-C04-00). </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors would like to thank the Laureate Institute for Brain Research psychiatric assessment team for conducting the structured interviews and Dr. Sheldon Preskorn, M.D. for his insight on this project. This research was conducted using internal funds from the Laureate Institute for Brain Research, which is supported by The William K. Warren Foundation. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  There was no financial and technical or other assistance provided for this study. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgement  This study was not funded by an external agency. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  We thank Prof. Gorden L. Warren of Georgia State University and Prof. José González-Alonso of Brunel University for assistance during preparing the manuscript. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors would like to thank the Australian Football League, the West Australian Football Commission, Football Victoria and the South Australian National Football League for their assistance in the undertaking of this study. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The study was conducted at the former School of Risk and Safety Sciences at the University of New South Wales where the first and second authors were based at the time. Dr. Usman was supported by the Ministry of Higher Education, Malaysia and the University of Malaya's scholarships. The study presented in this paper was submitted as part of Dr. Usman's PhD thesis in October 2011. Dr Andrew McIntosh is a lead researcher at the Australian Centre for Research into Injury in Sport and its Prevention (ACRISP). ACRISP is one of the designated International Olympic Committee centres for research into the prevention of injury and protection of athlete health. The authors are grateful for the ongoing support and interest of rugby players and administrators who make this and other research possible. No financial assistance was received for this study. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors would like to acknowledge Shawn Scully for figure preparation. </grant-text>
+</grantList>
+<grantList>
+<!-- Department of Health FOUND: Department of Health, Australian Government exact 1.0  -->
+<!-- Department of Health FOUND: Department of Health, Australian Government exact 1.0  -->
+<grant>
+<grant-agency><organization>Department of Health, Australian Government</organization><country iso-code= "AU"  /></grant-agency>
+<grant-agency-id>501100003921</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgements  This paper is a contribution from the National Cancer Intelligence Network and is based on the information collected and quality assured by the National Cancer Registration Service in England ( www.ncin.org.uk/ ; http://www.ncr.nhs.uk/). The work was carried out by the former Thames Cancer Registry in King's College London which received funding from the Department of Health. The views expressed in the publication are those of the author(s) and not necessarily those of the Department of Health. The study was completed with the support of the London Knowledge and Intelligence Team, Public Health England. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  We thank the NSW Centre for Health Record Linkage for conducting record linkage. We also thank Mr Robert Walker (Cancer Council New South Wales), Ms Margot Osinski (the Royal Women's Hospital), Ms Grace Musto (CancerCare Manitoba) and Ms Sharon Lum (the Prince of Wales Hospital) for extracting the data. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  The authors wish to thank Mrs O. Volpato for coordination of patients’ enrolment and L. Mei for editorial assistance. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  We thank the New South Wales Central Cancer Registry for providing the data for this study and Clare Kahn for editorial assistance. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  The authors would like to thank the CTS Steering Committee who are responsible for the formation and maintenance of the cohort within which this study was conducted and Dr. David Nelson for statistical consultation. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  The authors thank the French Assurance Maladie and all participant cancer centres, hospitals, private clinics, and pathologists for case identification and data collection. We thank Alison Foote (Grenoble Clinical Research Centre) for translating the manuscript and Jean Iwaz (Hospices Civils de Lyon, France) for his extensive and insightful editorial help. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgement  No financial support was provided for this study. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We thank the participating women, mammography facilities, and radiologists for the data they have provided. A list of BCSC investigators and procedures for requesting BCSC data for research purposes are provided at:  http://breastscreening.cancer.gov/ . </grant-text>
+</grantList>
+<grantList>
+<!-- GID : R50 000.00 -->
+<grant-text>
+ Acknowledgements  The authors wish to acknowledge the South African Medical Research Council for providing a developmental grant of R50 000.00 which contributed to the initiation of the anal cancer database from which data for this research project were extracted. Professor S.R. Thomson of the Gastroenterology Department, University of Cape Town, is thanked for providing academic input to the original draft. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgement  We thank the Office for National Statistics and the regional cancer registries in England for providing the data. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We are indebted to the Aomori, Iwate, Ibaraki, Niigata, Osaka, Kochi, Nagasaki, and Okinawa Cancer Registries for providing their incidence data. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgments  We are grateful to some authors of included studies who provided additional information for the meta-analysis. </grant-text>
+</grantList>
+<grantList>
+<grant-text>
+ Acknowledgements  We are very grateful to the staff of the National Cancer Registry Service- Eastern Region and the Scottish Cancer Registry for compiling the registration data. We are also grateful to steering group members of the Melanoma Interview study who have offered valuable comments: Dr Nigel Burrows, Prof Jon Emery, Dr Gina Kavanagh, Prof Rona MacKie, Prof David Weller. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : NS045926 -->
+<!-- GID : NS076352 -->
+<!-- GID : NS086604 -->
+<!-- GID : MH099587 -->
+<!-- GID : MH100031 -->
+<!-- NICHD  FOUND: National Institute of Child Health and Human Development remove stop words 0.9  -->
+<grant>
+<grant-id>P30 HD03352</grant-id>
+<grant-agency><organization>National Institute of Child Health and Human Development</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000071</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank A. Bhattacharyya for helpful comments on the manuscript and R. Bradley for helpful suggestions. This study was supported in part by the NIH-NINDS (NS045926, NS076352, and NS086604), NIH-NIMH (MH099587 and MH100031), the Bleser Family Foundation, the Busta Foundation, and the NICHD (P30 HD03352). </grant-text>
+</grantList>
+<grantList>
+<!-- GID : NIH R01 CA106995  -->
+<!-- GID : NIH R01 HL111192  -->
+<!-- GID : NIH R01 HG006130  -->
+<!-- GID : P30 CA016520 -->
+<grant-text>
+ Acknowledgments  NIH R01 CA149976 and the Abramson Family Cancer Research Institute (to N.A.S.), NIH R01 CA106995 (to P.M.), NIH R01 HL111192 (to A.R.K.), and NIH R01 HG006130 (to K.T.) supported this work. Core facilities at the University of Pennsylvania are supported by a Cancer Center Support Grant to the Abramson Cancer Center (P30 CA016520). Technical support was provided by Daniel Marmer of the Diagnostic Immunology Laboratory, Cincinnati Children’s Hospital Medical Center. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : 973 -->
+<!-- National Natural Science Foundation of China  FOUND: National Natural Science Foundation of China similarity metric 1.0  -->
+<!-- Ministry of Science and Technology  FOUND: Ministry of Science and Technology similarity metric 1.0  -->
+<!-- GID : 2011ZX09102-010-03 -->
+<!-- GID : 111 -->
+<grant>
+<grant-agency><organization>National Natural Science Foundation of China</organization><country iso-code= "CN"  /></grant-agency>
+<grant-agency-id>501100001809</grant-agency-id>
+</grant>
+<grant>
+<grant-id>2013DFG30680</grant-id>
+<grant-agency><organization>Ministry of Science and Technology</organization><country iso-code= "VN"  /></grant-agency>
+<grant-agency-id>100007225</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We would like to thank W.F. Yang, C.Y. Wang, Y. Shi, M. Yin, and F.C. Tang for suggestions, and we would also like to thank X.C. Li, X.M. Hao, L.J. Cheng, Z.C. Miao, S.G. Duo, Q.Z. Meng, Z.Y. Hou, and J.F. Liu for technical assistance. This work was supported by the National Basic Research Program of China (973 Program 2012CB966401 and 2015CB964501), the National Natural Science Foundation of China (91310305), Ministry of Science and Technology (2013DFG30680), Key New Drug Creation and Manufacturing Program (2011ZX09102-010-03), and the Ministry of Education of China (111 Project). We also wish to thank other members of our laboratories for their support. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : 2014CB964803 -->
+<!-- GID : 2015AA020307 -->
+<!-- National Natural Science Foundation of China  FOUND: National Natural Science Foundation of China similarity metric 1.0  -->
+<!-- Chinese Academy of Sciences  FOUND: Chinese Academy of Sciences similarity metric 1.0  -->
+<!-- GID : 12JC1409600 -->
+<!-- GID : 13XD1404000 -->
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>National Natural Science Foundation of China</organization><country iso-code= "CN"  /></grant-agency>
+<grant-agency-id>501100001809</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant>
+<grant-id>XDA01010403</grant-id>
+<grant-agency><organization>Chinese Academy of Sciences</organization><country iso-code= "CN"  /></grant-agency>
+<grant-agency-id>501100002367</grant-agency-id>
+</grant>
+<grant>
+<grant-id>2012OHTP08</grant-id>
+<grant-agency><organization>Chinese Academy of Sciences</organization><country iso-code= "CN"  /></grant-agency>
+<grant-agency-id>501100002367</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Wei Bian, Xuedong Wang, and Fang Zhang for support with cell sorting and Yongqiong Yu, Zhoujie Li, Qian Yu, and Liangwen Zhou for support with embryo transfer. We thank Yuelei Chen and Xiaoyan Ding from the Stem Cell Facility for support with cell cultures. This study was supported by grants from the Ministry of Science and Technology of China (2014CB964803 and 2015AA020307) (to J.L.), the National Natural Science Foundation of China (91319310 and 31225017 to J.L.; 31271390 to L.Y.), the Chinese Academy of Sciences (XDA01010403 to J.L.; 2012OHTP08 to L.Y.), and the Shanghai Municipal Commission for Science and Technology (12JC1409600 and 13XD1404000) (to J.L.). The M.S.B. laboratory was supported by the NIH (GM051279). </grant-text>
+</grantList>
+<grantList>
+<!-- GID : T32 GM007752 -->
+<!-- NRF FOUND: Neurosciences Research Foundation exact 1.0  -->
+<!-- Ministry of Education  FOUND: Ministry of Education similarity metric 1.0  -->
+<!-- GID : P30CA23100 -->
+<!-- NIH  FOUND: National Institutes of Health remove stop words 0.9  -->
+<grant>
+<grant-agency><organization>Neurosciences Research Foundation</organization><country iso-code= "GB"  /></grant-agency>
+<grant-agency-id>100007431</grant-agency-id>
+</grant>
+<grant>
+<grant-id>2014R1A1A2A16052133</grant-id>
+<grant-agency><organization>Ministry of Education</organization><country iso-code= "KR"  /></grant-agency>
+<grant-agency-id>501100002701</grant-agency-id>
+</grant>
+<grant>
+<grant-agency><organization>National Institutes of Health</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100000002</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We are grateful to Jonathan Yang for technical support and Marcie Kritzik for help with manuscript preparation. We would also like to thank Scott Armstrong for the MLL-AF9 construct; Scott Lowe for the AML-ETO9a construct; Dong-Er Zhang for experimental advice; Warren Pear and Ann Marie Pendergast for the BCR-ABL construct; and Gary Gilliland for the NUP98-HOXA9 construct. J.B. is supported by a postdoctoral fellowship from the National Cancer Center, T.I. is a recipient of a California Institute for Regenerative Medicine interdisciplinary stem cell training program fellowship, T.K. is supported by a postdoctoral fellowship from the Japanese Society for the Promotion of Science, C.S.K. and N.L. received support from the NIH Pharmacological Sciences Training Program (T32 GM007752), and H.Y.K. was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (2014R1A1A2A16052133). This work was also supported by a Lymphoma and Leukemia Society Scholar Award and the University of California San Diego Moores Cancer Center NCI Core Grant, P30CA23100, as well as by NIH grants HL097767, DP1 CA174422, DK099335, and CA186043 awarded to T.R. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : 585A1 -->
+<grant-text>
+ Acknowledgments  We are grateful to K. Okita for providing us with hiPSCs (585A1 and 585B1), to H. Suemori for cyESCs (CMK9), and to J. Toga for rLN511E8. We also thank Y. Nagai, R. Kabata, T. Sato, and M. Kabata for their technical assistance. This work was supported in part by a Grant-in-Aid from MEXT, by JST-ERATO, and by the Academia for Repro-Regenerative Medicine. </grant-text>
+</grantList>
+<grantList>
+<!-- Korean Ministry of Health and Welfare  FOUND: Ministry of Health and Welfare similarity metric 0.9128709435462952  -->
+<!-- GID : IBS-R021-D1 -->
+<!-- National Research Foundation of Korea  FOUND: National Research Foundation of Korea similarity metric 1.0  -->
+<grant>
+<grant-agency><organization>National Research Foundation of Korea</organization><country iso-code= "KR"  /></grant-agency>
+<grant-agency-id>501100003725</grant-agency-id>
+</grant>
+<grant>
+<grant-id>A120254</grant-id>
+<grant-agency><organization>Ministry of Health and Welfare</organization><country iso-code= "TW"  /></grant-agency>
+<grant-agency-id>100008903</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  D.-W.K. was supported by grants from the National Research Foundation of Korea (the Bio and Medical Technology Development Program, 2012M3A9B4028631 and 2012M3A9C7050126) and from the Korean Ministry of Health and Welfare (A120254). J.-S.K. was supported by a grant from IBS (IBS-R021-D1). J.-H.K. was supported by a grant from the National Research Foundation of Korea (2012M3A9C7050139). D.-W.K, J.-S.K, C.-Y.P, and D.H.K filed a patent application based on this work. </grant-text>
+</grantList>
+<grantList>
+<!-- GID : SF001 -->
+<!-- Chinese Academy of Sciences  FOUND: Chinese Academy of Sciences similarity metric 1.0  -->
+<!-- Ministry of Science and Technology  FOUND: Ministry of Science and Technology similarity metric 1.0  -->
+<!-- GID : ZJ2014-ZD-002 -->
+<!-- National Natural Science Foundation of China  FOUND: National Natural Science Foundation of China similarity metric 1.0  -->
+<!-- GID : 2012BAI10B03 -->
+<grant>
+<grant-agency><organization>National Natural Science Foundation of China</organization><country iso-code= "CN"  /></grant-agency>
+<grant-agency-id>501100001809</grant-agency-id>
+</grant>
+<grant>
+<grant-id>XDA01010302</grant-id>
+<grant-agency><organization>Chinese Academy of Sciences</organization><country iso-code= "CN"  /></grant-agency>
+<grant-agency-id>501100002367</grant-agency-id>
+</grant>
+<grant>
+<grant-id>2015CB964502</grant-id>
+<grant-agency><organization>Ministry of Science and Technology</organization><country iso-code= "VN"  /></grant-agency>
+<grant-agency-id>100007225</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  We thank Dr. Duanqing Pei (Guangzhou Institutes of Biomedicine and Health) for providing the human fibroblasts (SF001 and SF002). We thank Dr. Benedikt Berninger (University Mainz, Germany) for providing the CAG-Ngn2-IRES-DsRed plasmid. We thank Dr. Xiaoqing Zhang (Tongji University, China) for helping with neural differentiation assay. We thank all members of the labs for sharing reagents and advice. We also thank Yang Yu, Yan Wang, and National Center for Protein Science Shanghai for technical support. This work was supported by grants from Chinese Academy of Sciences (XDA01010302), the Ministry of Science and Technology (2015CB964502), Shanghai Zhangjiang Stem Cell Research Project (ZJ2014-ZD-002), the National Natural Science Foundation of China (31371419), and the National Science and Technology Support Program (2012BAI10B03). </grant-text>
+</grantList>
+<grantList>
+<!-- GID : F32AR062932 -->
+<!-- GID : R01AR064297 -->
+<!-- GID : AFIRM2-ER11 -->
+<!-- Johns Hopkins FOUND: Johns Hopkins University exact 1.0  -->
+<grant>
+<grant-agency><organization>Johns Hopkins University</organization><country iso-code= "USA"  /></grant-agency>
+<grant-agency-id>100007880</grant-agency-id>
+</grant>
+<grant-text>
+ Acknowledgments  The authors thank Conover Talbot Jr. (JHU Microarray Core) for assistance with microarray analysis; Lillian Dasko-Vincent, Cell Imaging Core Facility for assistance with immunocytochemistry analysis; and Dr. Pierre Coulombe and his laboratory for critical discussions. The authors thank Pierre Chambon for use of the K14-Ert2-Cre and K5-Ert2-Cre mouse lines. Research reported in this publication was supported by the National Institute of Arthritis and Musculoskeletal and Skin Diseases, part of the NIH, under Award Number F32AR062932 to A.M.N. and R01AR064297 to L.A.G. This work was also supported by the Department of Defense, Armed Forces Institute of Regenerative Medicine, Extremities Regeneration (AFIRM2-ER11), Northrop Grumman Electronic Systems, and Alliance for Veterans Support, Inc. (Veteran/Amputee Skin Regeneration Program Initiative), as well as the Thomas Provost, MD Young Faculty Development Fund of Johns Hopkins Dermatology to L.A.G. Johns Hopkins is the owner of a patent application with A.M.N. and L.A.G. as inventors on the use of dsRNA and pathway to promote regeneration and hair follicle neogenesis. </grant-text>
+</grantList>
+</data>

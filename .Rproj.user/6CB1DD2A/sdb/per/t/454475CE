@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1451911765931.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "454475CE",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "s9nu9bd1ia",
+        "caption" : "DCLAB.GRANT.ORGS...orgs",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=DCLAB.GRANT.ORGS...orgs&cache_key=s9nu9bd1ia",
+        "displayedObservations" : "2298",
+        "environment" : "",
+        "object" : "DCLAB.GRANT.ORGS...orgs",
+        "totalObservations" : "2298",
+        "variables" : "3"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

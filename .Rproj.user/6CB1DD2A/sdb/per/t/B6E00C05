@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1451912127305.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B6E00C05",
+    "lastKnownWriteTime" : 37446471691141251,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "mbxpqhl8g2",
+        "caption" : "orgs",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=orgs&cache_key=mbxpqhl8g2",
+        "displayedObservations" : "2298",
+        "environment" : "",
+        "object" : "orgs",
+        "totalObservations" : "2298",
+        "variables" : "3"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
